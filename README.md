@@ -14,7 +14,7 @@ Tons of Youtube😁
 Stackoverflow😭  
 
 
-# Reactjs
+## Reactjs
 
 [w3 schools](https://www.w3schools.com/react/default.asp)  
 [sololearn React+Redux](https://www.sololearn.com/learning/1097)  
@@ -25,26 +25,26 @@ Stackoverflow😭
 [React tips](https://www.youtube.com/watch?v=xa-_FIy2NgE&t=2s)  
 [Learn React Redux with Project](https://www.youtube.com/watch?v=0W6i5LYKCSI)  
 
-# Redux
+## Redux
 
 [Redux for beginners](https://www.youtube.com/watch?v=CVpUuw9XSjY)  
 [Login system with Redux](https://www.youtube.com/watch?v=mMzhWXr9ass)  
 
-# Redux Toolkit/RTK Query
+## Redux Toolkit/RTK Query
 
 [redux toolkit crud example](https://dev.to/julfikarhaidar/redux-toolkit-crud-example-with-react-hooks-4d98)  
 [fetching data in redux using RTK Query](https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query)  
 [RTK Docs](https://redux-toolkit.js.org/tutorials/quick-start)  
 [setup Redux Toolkit and RTK Query](https://codevoweb.com/setup-redux-toolkit-and-rtk-query/)  
 
-# Laravel
+## Laravel
 
 [Laravel Docs](https://laravel.com/docs/9.x/)  
 [Laravel essentials](https://www.youtube.com/watch?v=ubfxi21M1vQ&t=3s)  
 [Neil rowe Youtube course](https://www.youtube.com/watch?v=oO3LCWGlgyc&list=PLMvLDJ7usmZD4XEs3qW3JxRGK_3vTx0KY)  
 [Custom Auth in Laravel](https://www.youtube.com/watch?v=aXlmnvnzqo0&t=426s)  
 
-# Nodejs/Express
+## Nodejs/Express
 
 [w3schools](https://www.w3schools.com/nodejs/default.asp)  
 [Build a secure server with node and express](https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/)  
@@ -55,7 +55,7 @@ Stackoverflow😭
 [Otp-based login](https://javascript.plainenglish.io/create-otp-based-user-sign-up-using-node-js-cc4defc54123)  
 [Upload image to clodinary](https://dev.to/ebereplenty/image-upload-to-cloudinary-with-nodejs-and-dotenv-4fen)  
 
-# Misc.
+## Misc.
 
 [Optional chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)  
 [Demystifying modern frontend jargon](https://dev.to/ananyaneogi/demystifying-modern-frontend-jargon-1agf)  
