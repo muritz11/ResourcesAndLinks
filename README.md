@@ -1,7 +1,7 @@
 
 # Resources and links
 
-This repo contains links to free resources I found to be most helpful whenever to i needed to pickup a new concept, tool or language in my tech learning journey⚡
+This repo contains links to free resources I found to be most helpful whenever I needed to pickup a new concept, tool or language in my tech learning journey⚡
 
 I'll be updating this as I pick up new stuff😊
 
