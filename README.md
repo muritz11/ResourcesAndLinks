@@ -43,6 +43,8 @@ Stackoverflow😭
 [Laravel essentials](https://www.youtube.com/watch?v=ubfxi21M1vQ&t=3s)  
 [Neil rowe Youtube course](https://www.youtube.com/watch?v=oO3LCWGlgyc&list=PLMvLDJ7usmZD4XEs3qW3JxRGK_3vTx0KY)  
 [Custom Auth in Laravel](https://www.youtube.com/watch?v=aXlmnvnzqo0&t=426s)  
+[Deploy Laravel to shared hosting using Git](https://www.youtube.com/watch?v=X6t7xw1HU-s&t=6s)  
+[Automate laravel deployment with Github Actions](https://dev.to/kenean50/automate-your-laravel-app-deployment-with-github-actions-2g7j)  
 
 ## Nodejs/Express
 
