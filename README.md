@@ -62,3 +62,4 @@ Stackoverflow😭
 [Optional chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)  
 [Demystifying modern frontend jargon](https://dev.to/ananyaneogi/demystifying-modern-frontend-jargon-1agf)  
 [Replace component lifecycle with useEffect](https://www.ibrahima-ndaw.com/blog/replace-component-lifecycle-with-useEffect/)  
+[Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)  
