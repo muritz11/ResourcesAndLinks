@@ -24,6 +24,7 @@ Stackoverflow😭
 [Netninja React Youtube course](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)  
 [React tips](https://www.youtube.com/watch?v=xa-_FIy2NgE&t=2s)  
 [Learn React Redux with Project](https://www.youtube.com/watch?v=0W6i5LYKCSI)  
+[Writing automated test in React](https://www.youtube.com/watch?v=OVNjsIto9xM)  
 
 ## Redux
 
