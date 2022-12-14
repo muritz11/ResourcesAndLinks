@@ -64,3 +64,4 @@ Stackoverflow😭
 [Demystifying modern frontend jargon](https://dev.to/ananyaneogi/demystifying-modern-frontend-jargon-1agf)  
 [Replace component lifecycle with useEffect](https://www.ibrahima-ndaw.com/blog/replace-component-lifecycle-with-useEffect/)  
 [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)  
+[Create OTP input in React](https://dominicarrojado.com/posts/how-to-create-your-own-otp-input-in-react-and-typescript-with-tests-part-1/)  
