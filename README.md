@@ -55,6 +55,7 @@ Stackoverflow😭
 [Express Tutorial: Using a Database (with Mongoose)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)  
 [Setting up MongoDB Atlas Nodejs Integration Simplified: 3 Easy Steps](https://hevodata.com/learn/mongodb-atlas-nodejs/#s3)  
 [Deploy Nodejs app to Heroku](https://medium.com/make-school/how-to-deploy-your-node-js-mongodb-app-to-the-web-using-heroku-63d4bccf2675)  
+[Deploy Nodejs app to AWS](https://medium.com/@rajani103/deploying-nodejs-app-on-aws-ec2-instance-step-by-step-1b00f807cdce)  
 [Otp-based login](https://javascript.plainenglish.io/create-otp-based-user-sign-up-using-node-js-cc4defc54123)  
 [Upload image to clodinary](https://dev.to/ebereplenty/image-upload-to-cloudinary-with-nodejs-and-dotenv-4fen)  
 
