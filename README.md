@@ -58,6 +58,7 @@ Stackoverflow😭
 [Deploy Nodejs app to AWS](https://medium.com/@rajani103/deploying-nodejs-app-on-aws-ec2-instance-step-by-step-1b00f807cdce)  
 [Otp-based login](https://javascript.plainenglish.io/create-otp-based-user-sign-up-using-node-js-cc4defc54123)  
 [Upload image to clodinary](https://dev.to/ebereplenty/image-upload-to-cloudinary-with-nodejs-and-dotenv-4fen)  
+[Convert Express JS app to TS](https://medium.com/@mhuckstepp/step-by-step-guide-to-convert-an-existing-express-node-js-backend-to-typescript-931e435ea95d)
 
 ## Misc.
 
