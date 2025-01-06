@@ -46,6 +46,7 @@ Stackoverflow😭
 [Custom Auth in Laravel](https://www.youtube.com/watch?v=aXlmnvnzqo0&t=426s)  
 [Deploy Laravel to shared hosting using Git](https://www.youtube.com/watch?v=X6t7xw1HU-s&t=6s)  
 [Automate laravel deployment with Github Actions](https://dev.to/kenean50/automate-your-laravel-app-deployment-with-github-actions-2g7j)  
+[Send email with Laravel](https://mailtrap.io/blog/send-email-in-laravel/)  
 
 ## Nodejs/Express
 
