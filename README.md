@@ -47,6 +47,7 @@ Stackoverflow😭
 [Deploy Laravel to shared hosting using Git](https://www.youtube.com/watch?v=X6t7xw1HU-s&t=6s)  
 [Automate laravel deployment with Github Actions](https://dev.to/kenean50/automate-your-laravel-app-deployment-with-github-actions-2g7j)  
 [Send email with Laravel](https://mailtrap.io/blog/send-email-in-laravel/)  
+[Markdown mailables]([https://mailtrap.io/blog/send-email-in-laravel/](https://laravel.com/docs/10.x/mail#markdown-mailables))  
 
 ## Nodejs/Express
 
