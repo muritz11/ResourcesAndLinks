@@ -25,6 +25,7 @@ Stackoverflow😭
 [React tips](https://www.youtube.com/watch?v=xa-_FIy2NgE&t=2s)  
 [Learn React Redux with Project](https://www.youtube.com/watch?v=0W6i5LYKCSI)  
 [Writing automated test in React](https://www.youtube.com/watch?v=OVNjsIto9xM)  
+[Add TypeScript To An Existing React Project](https://www.totaltypescript.com/add-typescript-to-existing-react-project)  
 
 ## Redux
 
